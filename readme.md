@@ -1,4 +1,5 @@
 # Introduction
-## subtitle - hello there
 
-My name is not Caleb
+This is an example git repository for a python project.
+
+Created by Andreas Güttinger
